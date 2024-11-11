@@ -1,5 +1,4 @@
 import os
-
 from flask import Flask
 
 def create_app(test_config=None):
@@ -10,3 +9,5 @@ def create_app(test_config=None):
         return 'Landing Page'
 
     return app
+
+create_app()
