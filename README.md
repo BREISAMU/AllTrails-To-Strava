@@ -1,0 +1,1 @@
+Automatically log any hike posted on AllTrails to Strava
